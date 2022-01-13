@@ -1,62 +1,10 @@
 body {
-     margin: 0;
-     width: auto;
-
-}
-div {
-     
+     margin: 0 auto;
 }
 
-.header {
-     background-color: #1f2937;
-     color: white;
-
+.info,
+.thumb,
+.quote {
+     padding: 0 175px;
 }
 
-h3 {
-     font-size: 18px;
-     color: #f9faf8;
-}
-
-ul {
-     list-style: none;
-}
-.nav {
-     color: #f9faf8;
-     font-weight: extra-bold;
-     display: inline;
-}
-
-.section1 {
-     display: flex;
-}
-
-.main text {
-     justify-content: left;
-     width: 50%;
-}
-
-.pic {
-     width: 50%;
-}
-
-.section2 {
-     margin-top: 55px;
-
-}
-.section2 h2{
-     text-align: center;
-}
-.btn {
-     color: white;
-     background-color: #3882f6;
-     border: none;
-}
-
-.thumnails {
-     display: flex;
-}
-
-.img1 {
-     justify-content: left;
-}
